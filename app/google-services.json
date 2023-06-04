@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "402082981566",
+    "project_id": "mymessenger-48225",
+    "storage_bucket": "mymessenger-48225.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402082981566:android:8cd2a3913ffaddcf4d20ef",
+        "android_client_info": {
+          "package_name": "com.example.mymesenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402082981566-h82u1m993t0rqm79a1070ut0d0eqdqca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mymesenger",
+            "certificate_hash": "50b7ec898e4700e5822aaca1bc6501eb666627e0"
+          }
+        },
+        {
+          "client_id": "402082981566-n69a3k1bljffgrtr6bh28s94gs09cgp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj3UrUbImcTUpDO92U6HW2ibPXFkFIgdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402082981566-n69a3k1bljffgrtr6bh28s94gs09cgp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
